@@ -1,0 +1,9 @@
+<resources>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="push_button">Push Button for More Info</string>
+    <string name="get_places">Get Flights</string>
+    <string name="txtLat">txtLat</string>
+
+</resources>
